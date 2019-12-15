@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1540840881 source:c:\users\keshav\desktop\new folder\empprj\main.cpp
+	"MainMenu.h"
+
+1540840814 source:c:\users\keshav\desktop\new folder\empprj\employee.cpp
+	"Employee.h"
+	"string"
+	<stdlib.h>
+
+1540826343 c:\users\keshav\desktop\new folder\empprj\employee.h
+	"Definitions.h"
+	<fstream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	"AttendanceArray.h"
+	"Attendance.h"
+
+1539870774 c:\users\keshav\desktop\new folder\empprj\definitions.h
+	<iostream>
+
+1552922773 source:c:\users\keshav\desktop\new folder\empprj\employeearray.cpp
+	"EmployeeArray.h"
+
+1552922888 c:\users\keshav\desktop\new folder\empprj\employeearray.h
+	"Employee.h"
+
+1540917758 source:c:\users\keshav\desktop\new folder\empprj\mainmenu.cpp
+	"MainMenu.h"
+
+1540663236 c:\users\keshav\desktop\new folder\empprj\mainmenu.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string.h>
+	<sstream>
+	<stdlib.h>
+	<limits.h>
+	<stdlib.h>
+	<dos.h>
+	"Definitions.h"
+	"Employee.h"
+	"EmployeeArray.h"
+
+1540839741 source:c:\users\keshav\desktop\new folder\empprj\attendance.cpp
+	<iostream>
+	"Attendance.h"
+
+1540895752 c:\users\keshav\desktop\new folder\empprj\attendance.h
+	<iostream>
+	"Definitions.h"
+
+1540827108 source:c:\users\keshav\desktop\new folder\empprj\attendancearray.cpp
+	<iostream>
+	"Definitions.h"
+	"AttendanceArray.h"
+
+1539886778 c:\users\keshav\desktop\new folder\empprj\attendacearray.h
+	<iostream>
+	"Definitions.h"
+	"Attendance.h"
+
+1540826667 c:\users\keshav\desktop\new folder\empprj\attendancearray.h
+	<iostream>
+	"Definitions.h"
+	"Attendance.h"
+
